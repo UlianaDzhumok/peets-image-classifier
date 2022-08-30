@@ -1,1 +1,1 @@
-# peets-image-classifier
+# pets-image-classifier
